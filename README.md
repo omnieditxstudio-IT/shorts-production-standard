@@ -4,7 +4,7 @@
 
 **A 9:16 house style your agent can follow.**
 
-One file. No dependencies. Read it before the render.
+One `SKILL.md`. No dependencies. Read it before the render.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-FFD700?style=flat-square&labelColor=0b0b0b)](LICENSE)
 ![1080x1920](https://img.shields.io/badge/1080%C3%971920-30_fps-FFD700?style=flat-square&labelColor=0b0b0b)
@@ -57,7 +57,7 @@ That is the whole workflow. The skill fires on Shorts, TikTok, Reels and any 9:1
 
 | Hook | Captions | Label |
 |:---:|:---:|:---:|
-| <img src="assets/preview-hook.jpg" width="240"> | <img src="assets/preview-captions.jpg" width="240"> | <img src="assets/preview-label.jpg" width="240"> |
+| <img src="assets/preview-hook.jpg" width="240" alt="Hook overlay with bold caption"> | <img src="assets/preview-captions.jpg" width="240" alt="Word-synced captions with a yellow active word and a top badge"> | <img src="assets/preview-label.jpg" width="240" alt="Centred label with a soft glow"> |
 | opening hook | yellow active word + badge | centred payoff label |
 
 ## Verify before you post
