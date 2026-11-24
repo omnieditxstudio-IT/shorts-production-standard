@@ -4,6 +4,8 @@
 
 **A 9:16 house style your agent can follow.**
 
+by [Sajeeb Sarker](https://github.com/Sajeebsarker123) · [Omniedit X Studio](https://github.com/omnieditxstudio-IT)
+
 One `SKILL.md`. No dependencies. Read it before the render.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-FFD700?style=flat-square&labelColor=0b0b0b)](LICENSE)
@@ -25,7 +27,7 @@ final QA — whether you render with Remotion, FFmpeg or an editor.
 
 - **1080×1920 at 30 fps**, one active audio source.
 - **2.5× centred source** — `1.0` only when the whole frame is requested.
-- **Bold ALL-CAPS captions**, yellow active word, black outline, above the controls.
+- **Bold ALL-CAPS captions** — word-synced subtitles, yellow active word, black outline, above the controls.
 - **One badge** top-centre after the hook. Glow only on centred payoff labels.
 - **Restrained motion** — punch-ins on real beats, white flash on hard cuts, gold only on the win.
 - **Clean captions** — no `>>` markers, names and amounts fixed from context.
@@ -72,7 +74,11 @@ Checks `1080×1920`, `30 fps`, H.264, AAC and a real duration. Exits non-zero if
 
 OpenCode · Claude Code · Codex · Cursor — anything that can read a file.
 
-Tool-agnostic by design: it pairs with Remotion, FFmpeg, CapCut or a manual edit.
+Tool-agnostic by design: it pairs with Remotion, FFmpeg, CapCut or a manual edit, and drops into automated pipelines.
+
+## Author
+
+Built by [Sajeeb Sarker](https://github.com/Sajeebsarker123) at [Omniedit X Studio](https://github.com/omnieditxstudio-IT). Issues and PRs welcome.
 
 ## License
 
